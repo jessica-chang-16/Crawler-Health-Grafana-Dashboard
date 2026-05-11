@@ -1,4 +1,4 @@
-# Commercial-Team-Grafana-Dashboard
+# Crawler-Health-Grafana-Dashboard
 A real-time monitoring dashboard built to replace a deprecated internal tool used by the Commercial team (Customer Success, Sales, Analysts) to analyze and validate retailer coverage and crawler performance.
 
 ![Grafana Dashboard Img 1](redacted_ct_dashboard_img.png)
